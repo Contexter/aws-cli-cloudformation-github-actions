@@ -1,7 +1,3 @@
-I apologize for the previous mistakes. Here's the corrected `README.md` content with the proper links to the tutorial files:
-
----
-
 # Mastering AWS CLI, CloudFormation, Git, and GitHub Actions
 
 Welcome to **Mastering AWS CLI, CloudFormation, Git, and GitHub Actions with Shell Scripting**—a comprehensive guide to automating, managing, and deploying AWS infrastructure using a powerful combination of tools and practices. This repository will take you from the basics to advanced techniques, providing you with a robust foundation in both cloud infrastructure management and modern CI/CD pipelines.
