@@ -50,7 +50,3 @@ Each tutorial builds on the previous one, so it's recommended to follow the tuto
 1. Start with **[Introduction to Git and GitHub](aws-cli-cloudformation-github-actions/tutorials/01-introduction-to-git-and-github.md)** to set up Git and learn the basic commands to interact with GitHub repositories.
 
 2. Follow through the tutorials sequentially for a comprehensive learning experience.
-
----
-
-This updated `README.md` should now correctly link to the tutorial files based on the current directory structure of your repository. Let me know if there are any other issues!
