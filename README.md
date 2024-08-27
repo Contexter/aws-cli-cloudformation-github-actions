@@ -1,6 +1,6 @@
-# Mastering AWS CLI, CloudFormation, Git, and GitHub Actions
+# Get to know the AWS CLI, CloudFormation, Git, and GitHub Actions
 
-Welcome to **Mastering AWS CLI, CloudFormation, Git, and GitHub Actions with Shell Scripting**—a comprehensive guide to automating, managing, and deploying AWS infrastructure using a powerful combination of tools and practices. This repository will take you from the basics to advanced techniques, providing you with a robust foundation in both cloud infrastructure management and modern CI/CD pipelines.
+Welcome to **Get to know AWS CLI, CloudFormation, Git, and GitHub Actions with Shell Scripting**—a friendly guide to automating, managing, and deploying AWS infrastructure using a powerful combination of tools and practices. This repository will take you from the basics to advanced techniques, providing you with a robust foundation in both cloud infrastructure management and modern CI/CD pipelines.
 
 ## Who This Guide Is For
 
@@ -16,7 +16,7 @@ This guide is structured as a series of 15 tutorials, each designed to build upo
 
 1. **Git and GitHub Basics**: Learn the fundamentals of version control with Git and how to use GitHub for collaborative development.
 2. **GitHub Actions**: Set up and customize GitHub Actions to automate tasks, including building custom actions and creating CI pipelines.
-3. **AWS CLI Essentials**: Master the AWS CLI to manage AWS resources directly from the command line.
+3. **AWS CLI Essentials**: Learn about the AWS CLI to manage AWS resources directly from the command line.
 4. **CloudFormation Fundamentals**: Understand how to write, deploy, and manage CloudFormation templates for Infrastructure as Code.
 5. **CI/CD Pipelines**: Combine what you've learned to build a complete CI/CD pipeline that automates AWS infrastructure deployment.
 6. **Advanced CloudFormation and AWS Practices**: Explore advanced features like nested stacks, security best practices, and disaster recovery automation.
