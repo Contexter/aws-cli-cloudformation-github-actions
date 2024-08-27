@@ -1,4 +1,4 @@
-# Get to know the AWS CLI, CloudFormation, Git, and GitHub Actions
+# Get to know - the AWS CLI, CloudFormation, Git, and GitHub Actions
 
 Welcome to **Get to know AWS CLI, CloudFormation, Git, and GitHub Actions with Shell Scripting**—a friendly guide to automating, managing, and deploying AWS infrastructure using a powerful combination of tools and practices. This repository will take you from the basics to advanced techniques, providing you with a robust foundation in both cloud infrastructure management and modern CI/CD pipelines.
 
